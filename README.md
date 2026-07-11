@@ -1,5 +1,7 @@
 # Mizuuchi_Artificial_Multicellularity
-Custom Python codes used for the manuscript "Molecular communication enables cooperative genomic RNA replication in all-aqueous droplet colonies". The codes were tested on Python 3.10.16. under Windows 11.
+Custom Python code used for image processing, data preparation, statistical analysis, and visualization for the manuscript “Molecular communication enables cooperative genomic RNA replication in all-aqueous droplet colonies.”
 
-atps_droplet_communication_analysis.ipynb:  
-Analysis and plotting code for DEX exchange, FAM-RNA exchange, and RNA replication via inter-droplet molecular communication in stabilized ATPS droplets.
+The code was tested with Python 3.10.16 on Windows 11. The Conda environment used for the analyses is provided in cellpose3.yml.
+
+Repository contents
+droplet_segmentation_and_quantification.ipynb
