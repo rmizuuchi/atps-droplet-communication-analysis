@@ -1,5 +1,5 @@
 # Analysis code for molecular communication in ATPS droplet colonies
-Custom Python code used for image processing, data preparation, statistical analysis, and visualization for the manuscript “Molecular communication enables cooperative genomic RNA replication in all-aqueous droplet colonies.”
+Custom Python code used for image processing, data preparation, and visualization for the manuscript “Molecular communication enables cooperative genomic RNA replication in all-aqueous droplet colonies.”
 
 The code was tested with Python 3.10.16 on Windows 11.
 
