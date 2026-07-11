@@ -5,7 +5,7 @@ The code was tested with Python 3.10.16 on Windows 11.
 
 ## Files
 
-###`droplet_segmentation_and_quantification.ipynb`
+#### `droplet_segmentation_and_quantification.ipynb`
 
 Segments droplets in OIR microscopy images using Cellpose and quantifies their fluorescence intensities. The notebook outputs CSV files, segmentation masks, and PNG images.
 
